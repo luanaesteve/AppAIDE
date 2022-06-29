@@ -18,6 +18,12 @@ input, button {
 	align-items: center;
 	background-color: #1f1f1f;
 }
+
+form {
+	display: block;
+	position: relative;
+}
+
 body {
 	background: #E8E8E8;
 	font-family: 'Open Sans', sans-serif;
