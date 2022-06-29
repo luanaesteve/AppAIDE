@@ -89,4 +89,7 @@ form .form-inner input[type="submit"] {
 	border-radius: 8px;
 	background-image: linear-gradient(to right, #FFCE00 50%, #FFCE00 50%, #FE4880);
 	background-size: 200%;
+	background-position: 0%;
+	transition: 0.4s;
+	
 }
