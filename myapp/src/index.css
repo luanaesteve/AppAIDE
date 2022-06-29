@@ -62,6 +62,7 @@ form .form-inner .form-group {
 	color: #666;
 	font-size: 12px;
 	margin-bottom: 5px;
+	transition: 0.4s;
 }
 
 
