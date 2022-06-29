@@ -8,7 +8,7 @@ const Formulario = () => {
 	const handleSubmit = (e) => {
 		e.preventDefault();
 
-		// Comprobamos validacion del formulario ...
+		// Comprobamos validacion del formulario ..
 		// Si todo es correcto enviamos el formulario
 
 		console.log('Formulario Enviado!');
