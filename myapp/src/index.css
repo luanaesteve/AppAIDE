@@ -12,6 +12,10 @@ input, button {
 	outline: none;
 }
 
+.App {
+
+	height: 100vh;
+}
 body {
 	background: #E8E8E8;
 	font-family: 'Open Sans', sans-serif;
@@ -94,6 +98,3 @@ body {
 	color: #02a802;
 }
 
-.formulario input[type="radio"] {
-	width: auto;
-}
