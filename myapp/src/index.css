@@ -51,6 +51,12 @@ form .form-inner h2 {
 	margin-bottom: 30px;
 }
 
+form .form-inner .form-group {
+	display: block;
+	width: 300px;
+	margin-bottom: 15px;
+}
+
 .contenedor {
 	min-height: 100vh;
 	display: flex;
