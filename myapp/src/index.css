@@ -13,8 +13,10 @@ input, button {
 }
 
 .App {
-
 	height: 100vh;
+	display: flex;
+	align-items: center;
+	background-color: #1f1f1f;
 }
 body {
 	background: #E8E8E8;
