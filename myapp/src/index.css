@@ -67,19 +67,6 @@ form .form-inner .form-group {
 
 
 
-.formulario {
-	min-width: 600px;
-	margin-top: 50px;
-	background: #fff;
-	border-radius: 5px;
-	padding: 20px;
-	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-}
-
-.formulario > div {
-	margin-bottom: 20px;
-}
-
 .formulario input:focus {
 	outline: none;
 	border: 2px solid #0085FF;
