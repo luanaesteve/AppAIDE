@@ -94,11 +94,3 @@ form .inger-form {
 .formulario button[type="submit"]:hover {
 	background: #0051ff;
 }
-
-.formulario .exito {
-	text-align: center;
-	font-size: 14px;
-	padding-top: 20px;
-	color: #02a802;
-}
-
