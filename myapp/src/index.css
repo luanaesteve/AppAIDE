@@ -39,12 +39,11 @@ form:after {
 form .inger-form {
 	position: relative;
 	display: block;
+	background-color: #FFF;
+	padding: 30px;
+	z-index: 2;
 }
 
-body {
-	background: #E8E8E8;
-	font-family: 'Open Sans', sans-serif;
-}
 
 .contenedor {
 	min-height: 100vh;
