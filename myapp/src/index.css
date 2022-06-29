@@ -24,6 +24,18 @@ form {
 	position: relative;
 }
 
+form:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: -5px;
+	left: -5px;
+	right: -5px;
+	bottom: -5px;
+	z-index: 1;
+	background-image: linear-gradient(to bottom right, #FFCE00, #FE4880);
+}
+
 body {
 	background: #E8E8E8;
 	font-family: 'Open Sans', sans-serif;
