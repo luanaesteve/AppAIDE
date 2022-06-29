@@ -69,16 +69,8 @@ form .form-inner .form-group {
 	color: #FE4880;
 }
 
-.formulario input:focus {
-	outline: none;
-	border: 2px solid #0085FF;
-}
 
-.formulario .error {
-	color: #e92b2d;
-	font-weight: 600;
-	font-size: 12px;
-}
+
 
 .formulario button[type="submit"] {
 	display: block;
