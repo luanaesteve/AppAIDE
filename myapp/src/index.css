@@ -69,7 +69,14 @@ form .form-inner .form-group {
 	color: #FE4880;
 }
 
-
+form .form-inner .form-group input {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	background-color: #f8f8f8;
+	border-radius: 8px;
+	transition: 0.4s;
+}
 
 
 .formulario button[type="submit"] {
