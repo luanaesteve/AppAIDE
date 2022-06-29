@@ -65,7 +65,9 @@ form .form-inner .form-group {
 	transition: 0.4s;
 }
 
-
+.form-inner .form-group:focus-within label {
+	color: #FE4880;
+}
 
 .formulario input:focus {
 	outline: none;
