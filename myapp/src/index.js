@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, TouchableOpacity, TextInput, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
 import LoginForm from "./UI/Components/form";
 
 export default function App(){
