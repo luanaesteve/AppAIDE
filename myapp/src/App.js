@@ -9,13 +9,13 @@ function App() {
     email: "admin@admin.com",
     password: "admin1234"
   }
-  const [user, setUser] = useState({name: "", email: ""});
+  const [user, setUser] = useState({name: "", email});
   const [error, setError] = useState("");
 
   const login = details => {
     console.log(details);
   }
-  const Logout = () => {
+  const Logout = () =>{
     console.log("Logout");
   }
   return (
