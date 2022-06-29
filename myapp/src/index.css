@@ -57,6 +57,14 @@ form .form-inner .form-group {
 	margin-bottom: 15px;
 }
 
+.form-inner .form-group label {
+	display: block;
+	color: #666;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+
 .contenedor {
 	min-height: 100vh;
 	display: flex;
