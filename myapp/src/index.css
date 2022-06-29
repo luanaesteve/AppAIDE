@@ -5,6 +5,13 @@
 	font-family: monserrat, sans-serif;
 }
 
+input, button {
+	appearance: none;
+	background: none;
+	border: none;
+	outline: none;
+}
+
 body {
 	background: #E8E8E8;
 	font-family: 'Open Sans', sans-serif;
