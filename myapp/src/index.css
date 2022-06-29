@@ -36,7 +36,7 @@ form:after {
 	background-image: linear-gradient(to bottom right, #FFCE00, #FE4880);
 }
 
-form .inger-form {
+form .inner-form {
 	position: relative;
 	display: block;
 	background-color: #FFF;
@@ -44,6 +44,12 @@ form .inger-form {
 	z-index: 2;
 }
 
+form .form-inner h2 {
+	color: #888;
+	font-size: 28px;
+	font-weight: 500;
+	margin-bottom: 30px;
+}
 
 .contenedor {
 	min-height: 100vh;
