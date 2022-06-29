@@ -36,7 +36,10 @@ form:after {
 	background-image: linear-gradient(to bottom right, #FFCE00, #FE4880);
 }
 
-
+form .inger-form {
+	position: relative;
+	display: block;
+}
 
 body {
 	background: #E8E8E8;
@@ -61,18 +64,6 @@ body {
 
 .formulario > div {
 	margin-bottom: 20px;
-}
-
-.formulario input,
-.formulario textarea {
-	font-family: 'Open Sans', sans-serif;
-	width: 100%;
-	border-radius: 5px;
-	border: 2px solid #e2e2e2;
-	font-size: 18px;
-	padding: 10px;
-	margin-bottom: 5px;
-	color: #1f1f1f;
 }
 
 .formulario input:focus {
