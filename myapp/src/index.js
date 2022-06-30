@@ -5,8 +5,8 @@ import LoginForm from "./UI/Components/form";
 export default function App(){
     return(
         <View style={styles.container}>
-            <Text></Text>
-            <Text></Text>
+            <Text>hola</Text>
+            <Text>jajaj</Text>
             <LoginForm/>
         </View>
     );
